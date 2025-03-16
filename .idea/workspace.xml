@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adfe6b5a-c9dd-40e7-a810-4eb4e6ee7361" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smarthomecontroller/AdapterLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smarthomecontroller/Devicefactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smarthomecontroller/DoorLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smarthomecontroller/Factories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smarthomecontroller/FirstDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smarthomecontroller/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smarthomecontroller/LogFeature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smarthomecontroller/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smarthomecontroller/Powersavingmode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smarthomecontroller/Securitysystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smarthomecontroller/Smartlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smarthomecontroller/Smartthermostat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/smarthomecontroller/Defaultdevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/smarthomecontroller/Defaultdevice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/smarthomecontroller/DeviceGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/smarthomecontroller/DeviceGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/smarthomecontroller/Devices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/smarthomecontroller/Devices.java" afterDir="false" />
-    </list>
+    <list default="true" id="adfe6b5a-c9dd-40e7-a810-4eb4e6ee7361" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1742111713005</updated>
       <workItem from="1742111714542" duration="13442000" />
-      <workItem from="1742127849128" duration="313000" />
+      <workItem from="1742127849128" duration="619000" />
     </task>
     <servers />
   </component>
