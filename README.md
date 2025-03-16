@@ -1,0 +1,2 @@
+# solutionofmidterm
+midterm design patterns
