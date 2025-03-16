@@ -1,8 +1,8 @@
 package smarthomecontroller;
-
+//delegates commands
 public class Defaultdevice implements Devices{
     private Devices component;
-    public void setComponent(Devices component){
+    public Defaultdevice(Devices component){
         this.component=component;
     }
     public void run(){ component.run();}
